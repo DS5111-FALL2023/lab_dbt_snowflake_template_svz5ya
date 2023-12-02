@@ -1,0 +1,130 @@
+﻿Course_ID,Learning_Outcome,Status
+ds_tech_bootcamp,Research documentation on your own as a first line of action,Active
+ds_tech_bootcamp,Describe the components of a computer,Active
+ds_tech_bootcamp,Explain the scales of computational power and scales of data,Active
+ds_tech_bootcamp,"Differentiate between Windows, MacOS ,and Linux operating systems",Active
+ds_tech_bootcamp,Compare Command Line (CLI) and Graphical User Interface (GUI) shells,Active
+ds_tech_bootcamp,Demonstrate installing software to your computer,Active
+ds_tech_bootcamp,Implement important tasks with Linux,Active
+ds_tech_bootcamp,Create a GitHub account for career or personal use,Active
+ds_tech_bootcamp,Use CLI to operate Git software for version control,Active
+ds_tech_bootcamp,Use GUI to operate Github website interface for version control,Active
+ds_tech_bootcamp,Know how to Install R,Active
+ds_tech_bootcamp,Know how to install and launch Rstudio,Active
+ds_tech_bootcamp,Know how to install Anaconda,Active
+ds_tech_bootcamp,Know how to launch Spyder,Active
+ds_tech_bootcamp,Know how to launch Jupyter Notebook,Active
+ds5001,Understand and use language models such as bag of words,Active
+ds5001,Understand and use vector space models,Active
+ds5001,Understand how to measure similarity between documents,Active
+ds5001,Understand how Principal Component Analysis (PCA) works,Active
+ds5001,Understand and use topic models such as Latent Dirichlet Allocation (LDA),Active
+ds5001,Understand and use word embedding such as glove and word2vec,Active
+ds5001,Understand and use sentiment analysis such as VADER,Active
+ds5001,Understand and use Naive Bayes classification,Active
+cs5012,Have a working knowledge of parallel computing and apply this knowledge for improved computing efficiency,Active
+cs5012,"Select, Computationally Assess, and Deploy appropriate and efficient data structures and algorithms to solve Data Science problems",Active
+cs5012,"Define and Use Logic, Data Structures, and Algorithms to Solve Problems ",Active
+cs5012,"Connect, Transform, and Reduce Real-World Problems to Classical Problem Frameworks to make use of existing, efficient algorithmic solutions",Active
+cs5012,Independently Explore advanced or supplementary topics to attain a deeper and complimentary understanding of topics,Active
+cs5012,"Reflect on peer-feedback, instructor-feedback, experiences, and lessons-learned related to the use of data structures and algorithms to make continual improvements and updates to methodologies applied ",Active
+cs5012,Have a working knowledge of the Algorithm Complexity Class Hierarchy in order to gain perspective of the scope of the field and its contextual application to Data Science ,Active
+cs5012,Design and understand regular expressions for pattern matching,Active
+cs5012,Understand the important considerations for proper database design,Active
+ds5100,Basic Dataframe operations (Python and R),Active
+ds5100,Clone a repo on GitHub,Active
+ds5100,Confidently work in an appropriate programming environment (IDE),Active
+ds5100,Confidently write a class and call its methods to simulate a scenario,Active
+ds5100,Confidently write and call functions in both Python and R,Active
+ds5100,Correctly pass parameters and retrieve function output(s),Active
+ds5100,"Data structures (e.g., sequences and collections: set, list, dict, tuple)",Active
+ds5100,Demonstrate how methods are inherited from base classes,Active
+ds5100,"Essential primitives (e.g., bool, int, float)",Active
+ds5100,Find and utilize resources including online documentation,Active
+ds5100,"I/O: at least three different formats, including csv, txt, JSON",Active
+ds5100,Identify and utilize primitive data types and data structures [Built in],Active
+ds5100,Import data into a Pandas Dataframe,Active
+ds5100,Incorporating some exception handling,Active
+ds5100,"NumPy, Pandas (essentials)",Active
+ds5100,Patch/debug broken code,Active
+ds5100,Patch/debug code using in-line testing and unit testing (advanced),Active
+ds5100,"Perform sensitivity analysis on functions (e.g., changing inputs and measuring impact on outputs)",Active
+ds5100,Perform simple mathematical calculations (Python and R),Active
+ds5100,R: Apply the Tidyverse Pipe operator to aggregate data,Active
+ds5100,"R: Apply the Tidyverse verbs, such as: select(), filter(), arrange(), mutate(), summarize()",Active
+ds5100,R: data types,Active
+ds5100,R: Demonstrate use of element-wise operations,Active
+ds5100,"R: essential built-in functions like head(), tail(), rbind(), table(), summary(), str()",Active
+ds5100,R: get started in RStudio and navigate around,Active
+ds5100,R: save code in an R script,Active
+ds5100,R: vectorization,Active
+ds5100,Read and Write to and from various data formats,Active
+ds5100,Read code on GitHub,Active
+ds5100,Select and apply an appropriate data structure based on the problem requirements,Active
+ds5100,Use a program API to utilize existing functions (e.g. assert statements.),Active
+ds5100,"Using program API to utilize existing functions (e.g. sorting, searching, assert statements, etc.)",Active
+ds5100,Utilize and implement add-on numerical packages to augment existing data structures,Active
+ds5100,Write robust code by implementing the basic principles of program testing and debugging,Active
+ds5110,Execute distributed computing frameworks using MapReduce and Spark ,Active
+ds5110,"Demonstrate knowledge of applications for big data storage, retrieval, processing, and modeling using Amazon AWS, Hive, and others from the Hadoop ecosystem ",Active
+ds5110,"Implement PySpark for prevalent data science tasks, including data analysis and machine learning",Active
+ds5110,Execute an end-to-end predictive modeling project using a large dataset,Active
+ds5110,"Delineate Spark basic architecture and functionality.
+",Active
+ds5110,Apply RDDs and Pair RDDs in data analysis tasks,Active
+ds5110,Apply DataFrames in data analysis tasks,Active
+ds5110,Apply Spark SQL to data analysis tasks,Active
+ds5110,Demonstrate how to preprocess data in PySpark,Active
+ds5110,Identify the basics of the MLlib library in PySpark,Active
+ds5110,Implement classification models in MLlib,Active
+ds5110,Identify the statistics functionality in MLlib,Active
+ds5110,Implement regression models in MLlib,Active
+ds5110,Examine the alternating least squares algorithm,Active
+ds5110,Implement recommender systems in PySpark using collaborative filtering,Active
+ds5110,Execute the feature utilities package in ML,Active
+ds5110,Construct machine learning pipelines,Active
+ds5110,Apply dimension reduction techniques using PySpark,Active
+ds5110,Execute model selection and tuning in PySpark,Active
+ds5110,Distinguish the use and benefits of accumulators and broadcast variables,Active
+ds5110,Build machine learning tools for the supervised learning task,Active
+ds5110,Use hyperparameter tuning in Spark,Active
+ds5110,Understand the concepts behind HDFS,Active
+ds5110,Understand the concepts behind Hive.,Active
+ds5110,Have some familiarity with running PySpark in a Databricks notebook,Active
+ds5110,"Understand how EC2 and S3 are used for computing and storage, respectively",Active
+ds5110,Demonstrate the steps for configuring and launching an AWS EC2 instance,Active
+ds5110,Understand the capabilities of Amazon Glue and Athena,Active
+ds5110,Understand the concepts and use cases behind Apache Kafka,Active
+ds5110,Create and configure an Amazon S3 bucket,Active
+ds5110,Apply the concepts behind streaming systems,Active
+ds5110,Execute the Spark Streaming library,Active
+ds5110,Compute analytics using Spark Streaming,Active
+ds5110,Explain the properties of data lakes and data lakehouses,Active
+ds5110,"Explain the shortcomings of data lakes, and how data lakehouses address these shortcomings",Active
+ds5110,"Work with Apache Delta lakes to implement their salient features (create, delete, update, conditional update, time travel)",Active
+ds5110,Implement GraphX and GraphFrames in Spark,Active
+ds6001,Recognize how to get help with coding in a way that is accurate and efficient while demonstrating how to be a good citizen in online forums,Active
+ds6001,"Implement methods for acquiring electronic data in many formats: csv, flat files, json, from APIs, and using web scraping, and loading it into Python",Active
+ds6001,"Understand the purpose, typology, and language of relational databases",Active
+ds6001,"Understand the purpose, typology, and language of NoSQL databases",Active
+ds6001,"Understand how to implement databases Python: SQLite, PostgreSQL, MySQL, MongoDB",Active
+ds6001,Understand how to query databases with SQL ,Active
+ds6001,Understand how to query databases with the MongoDB query language,Active
+ds6001,"Employ methods for wrangling, joining, and aggregating data using pandas",Active
+ds6001,"Understand relationships in data using summary statistics, hypothesis tests, measurement models",Active
+ds6001,"Understand relationships in data using visualization with matplotlib, seaborn, plotly",Active
+ds6002,Identify situations that demand ethical responses involving data science,Active
+ds6002,Develop the skills to respond creatively to critical ethics issues in data science,Active
+ds6003,"Build knowledge about the education and training needed for a particular job, career path, and entry into the data science profession",Active
+ds6003,"Observe, receive information, and ask questions to acquire knowledge and awareness of data science professions",Active
+ds6003,Relate academics with the world of work by connection data science careers to program coursework,Active
+ds6011,Collect and manage data to devise solutions to assigned research projects,Active
+ds6011,"Select, apply, and evaluate models, tools, and methods to address research projects",Active
+ds6011,Interpret and assess results and evaluate the limitations of research findings,Active
+ds6011,"Resolve group work allocation, leadership, and cooperation issues",Active
+ds6012,Identify situations that demand ethical responses involving data science,Active
+ds6012,Develop the skills to respond creatively to critical ethics issues in data science,Active
+ds6013,Collect and manage data to devise solutions to assigned research projects,Active
+ds6013,"Select, apply, and evaluate models, tools, and methods to address research projects",Active
+ds6013,Interpret and assess results and evaluate the limitations of research findings,Active
+ds6013,"Resolve group work allocation, leadership, and cooperation issues",Active
